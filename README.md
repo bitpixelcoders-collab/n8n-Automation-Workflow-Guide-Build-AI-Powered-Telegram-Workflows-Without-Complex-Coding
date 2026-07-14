@@ -1,4 +1,4 @@
-# 🚀 n8n Automation Workflow Guide: Build AI-Powered Telegram Workflows Without Complex Coding
+#  n8n Automation Workflow Guide: Build AI-Powered Telegram Workflows Without Complex Coding
 
 Modern businesses spend countless hours on repetitive tasks like sending notifications, updating spreadsheets, responding to customer messages, and synchronizing data between applications. Workflow automation helps eliminate these manual processes, and **n8n** has become one of the most flexible open-source platforms for building intelligent automations.
 
